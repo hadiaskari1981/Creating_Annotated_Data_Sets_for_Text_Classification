@@ -1,2 +1,0 @@
-Hello
-The CSV file comes from Twitter
