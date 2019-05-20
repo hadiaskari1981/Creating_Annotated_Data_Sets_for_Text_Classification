@@ -6,4 +6,4 @@ am trying to find a solution to annotate text automatically using the concepts o
 learning and it definetely shoots up the accuracy of training in text classification. 
 
 
-Here Hadi is writing, it is my Thesis as a M.Sc. student in Data Analytics in Rennes School of Business. There are two notebook files "GP_location" and "GP_time" that calculate sentiment based in different countires and in different time.
+Here Hadi is writing, it is my Thesis as a M.Sc. student in Data Analytics in Rennes School of Business.
